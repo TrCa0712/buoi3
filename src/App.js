@@ -9,7 +9,7 @@ import Hook6 from './components/Hook6';
 const App = () => {
     return (
         <div>
-            <h1>Học UseState</h1>
+            <h1>Học UseState, git pull mới</h1>
             <Hook1 />
             <Hook2 />
             <Hook3 />
